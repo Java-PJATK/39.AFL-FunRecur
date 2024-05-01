@@ -1,7 +1,7 @@
 # AFL-FunRecur
 39 AFL-FunRecur/SimpleRec.java  70
 
-Cont. from [](https://github.com/Java-PJATK/38.BHE-StatEx/)  
+Cont. from [38.BHE-StatEx](https://github.com/Java-PJATK/38.BHE-StatEx/)  
 
 Both methods and static functions can be recursive, i.e., they can invoke themselves; of course, you have to ensure that the chain of recursive invocations stops at some point...  
 
